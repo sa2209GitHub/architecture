@@ -1,2 +1,1 @@
-# architecture
-Real estate website educational project
+# Real estate website educational project
